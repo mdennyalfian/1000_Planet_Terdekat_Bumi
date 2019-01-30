@@ -25,5 +25,5 @@ agar lebih cepat dalam prosesnya atau tidak terlalu berat, maka 40 data csv dipi
   7. Data yang terdapat pada csv diload dan dimasukan kedalam dataframe.
   8. Tiap folder data dicari 1000 id_planet dengan jarak terdekat ke bumi.
   9. Gabungkan tiap 1000 hasil pencarian menjadi satu (total 13000 id_planet terdekat)
-  10.Cari lagi(dari 13000 id_planet) 1000 id_planet yang memiliki jarak terdekat ke bumi. 
+  10. Cari lagi(dari 13000 id_planet) 1000 id_planet yang memiliki jarak terdekat ke bumi. 
      dan didapatkanlah hasil pencarian dan juga nilai rata2 jarak planet.
