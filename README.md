@@ -21,7 +21,7 @@ agar lebih cepat dalam prosesnya atau tidak terlalu berat, maka 40 data csv dipi
   4. Mengelompokkan dataset menjadi beberapa folder
   5. Buka jupyter notebook dan buat file baru
   6. Inisialisasi library yang digunakan
-  # menggunakan 'time()' untuk merekam proses dari program yang dijalankan
+  #--menggunakan 'time()' untuk merekam proses dari program yang dijalankan
   7. Data yang terdapat pada csv diload dan dimasukan kedalam dataframe.
   8. Tiap folder data dicari 1000 id_planet dengan jarak terdekat ke bumi.
   9. Gabungkan tiap 1000 hasil pencarian menjadi satu (total 13000 id_planet terdekat)
