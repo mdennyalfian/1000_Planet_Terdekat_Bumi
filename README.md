@@ -3,9 +3,9 @@ Data Engineer Test Bahasa Kita
 
 Petunjuk
 0. Gunakanlah virtual environment untuk menjalankan tugas ini
-1. Dataset dapat diperoleh dari
+1. Dataset dapat diperoleh dari:
    pip install bahasakitasemua
-2. Dataset dapat didegenerasi dengan mengeksekusi perintah
+2. Dataset dapat didegenerasi dengan mengeksekusi perintah:
    bahasakita data-engineer email@anda.com
 
 #--- Pembuatan program menggunakan anaconda-python 3.6.5 dan jupyter notebook. 
